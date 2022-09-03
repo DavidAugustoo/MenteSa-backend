@@ -5,6 +5,14 @@
   <p align="center">MenteSã ajuda você a acompanhar todas as consultas que você tem com seus pacientes registrados.</p>
     <p align="center">
 
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#executando-a-aplicação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#suporte">Suporte</a>
+</p>
+
 ## Tecnologias
 
 - [NodeJs](https://nodejs.org/en/)
@@ -32,7 +40,7 @@ Obs: Funcionalidades desmarcadas estão em andamento
 
 ## Descrição
 
-Mente Sã é um software projetado para ajudar psiquiatras a organizarem suas consultas e acompanhamentos com seus pacientes. Permitindo registro de profissionais (psicólogos, psiquiatras, neurologistas), bem como dos seus respectivos pacientes. Todas as sessões podem ser registradas e monitoradas através de um painel, que facilita o gerenciamento de múltiplas bases de dados e melhora sua eficiência como profissional.
+Mente Sã é um software projetado para ajudar profissionais a organizarem suas consultas e acompanhamentos com seus pacientes. Permitindo registro de profissionais (psicólogos, psiquiatras, neurologistas), bem como dos seus respectivos pacientes. Todas as sessões podem ser registradas e monitoradas através de um painel, que facilita o gerenciamento de múltiplas bases de dados e melhora sua eficiência como profissional.
 
 ## Executando a API
 
@@ -46,7 +54,7 @@ $ git clone https://github.com/DavidAugustoo/MenteSa-backend.git
 
 ##### Instale as dependências
 ```bash
-$ npm run start-dev
+$ npm install
 ```
 
 ##### Configure as variáveis de ambiente
@@ -73,6 +81,8 @@ http://localhost:8080/api-docs/
 - Documentação da API - [Acessar Swagger](https://mentesa.azurewebsites.net/api-docs/)
 
 - Documentação do Projeto - [Acessar PDF](https://drive.google.com/file/d/1U6BPduRu61tPzoFHiDDpq7ZMQ5s76X7J/view?usp=sharing)
+
+- Frontend - [Acessar Repositório Frontend](https://github.com/DavidAugustoo/MenteSa-frontend)
 
 ## Contato
 
