@@ -13,6 +13,22 @@
 - [MongoDB](https://www.mongodb.com/)
 - [Swagger](https://swagger.io/)
 
+## Funcionalidades
+Obs: Funcionalidades desmarcadas estão em andamento
+
+ - [x] - Cadastro de profissionais
+ - [x] - Cadastro de pacientes
+ - [x] - Autenticação de usuário na plataforma
+ - [x] - Exclusão de pacientes
+ - [ ] - Visualizar detalhes de pacientes
+ - [x] - Listagem de pacientes com paginação
+ - [x] - Listagem de profissionais com paginação
+ - [x] - Edição de informações cadastrais de pacientes e profissionais
+ - [x] - Agendamento de sessão
+ - [x] - Listagem de sessões com paginação
+ - [x] - Editar sessões cadastradas
+ - [ ] - Visualizar detalhes de sessão
+
 
 ## Descrição
 
